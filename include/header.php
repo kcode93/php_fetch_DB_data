@@ -8,8 +8,9 @@
     <meta name="author" content="Kenneth Garcia">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!--BOOTSWATCH Flatly CDN-->
-    <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/flatly/bootstrap.min.css" rel="stylesheet"
+    <link href="https://bootswatch.com/4/flatly/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-T5jhQKMh96HMkXwqVMSjF3CmLcL1nT9//tCqu9By5XSdj7CwR0r+F3LTzUdfkkQf" crossorigin="anonymous">
     <title>display Db</title>
+    <link rel="stylesheet" href="css/main.css">
   </head><!--end of head-->
   <body>

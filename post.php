@@ -21,12 +21,12 @@
   mysqli_close($conn);
 ?>
 
-<?php include('header') ?>
+<?php include('include/header.php') ?>
     <div class="container">
-      <a class="btn btn-default" href="<?php echo ROOT_ULR; ?>">Back</a>
+      <br>
+      <a class="btn btn-secondary" href="<?php echo ROOT_URL; ?>">Back</a>
       <h1><?php echo $post['title']; ?></h1>
         <small>Created on <?php echo $post['created']; ?> by <?php echo $post['author']; ?></small>
         <p><?php echo $post['body']; ?></p>
     </div><!--end of container-->
-  </body>
-</html>
+<?php include('include/footer.php') ?>
