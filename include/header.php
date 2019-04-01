@@ -14,3 +14,4 @@
     <link rel="stylesheet" href="css/main.css">
   </head><!--end of head-->
   <body>
+    <?php include('navbar.php') ?>

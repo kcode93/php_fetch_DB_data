@@ -23,7 +23,6 @@
 
 <?php include('include/header.php') ?>
     <div class="container">
-      <br>
       <a class="btn btn-secondary" href="<?php echo ROOT_URL; ?>">Back</a>
       <h1><?php echo $post['title']; ?></h1>
         <small>Created on <?php echo $post['created']; ?> by <?php echo $post['author']; ?></small>
