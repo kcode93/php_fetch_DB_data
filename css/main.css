@@ -1,5 +1,6 @@
 .btn{
   margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
 }
 
 .post-button{
@@ -7,6 +8,5 @@
   font-size: 1.2rem;
 }
 
-.hide{
-  display: none;
-}
+
+
